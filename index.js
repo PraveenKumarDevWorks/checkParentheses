@@ -21,3 +21,22 @@ console.log(checkParentheses("((()))")); // true
 console.log(checkParentheses(")(")); // false
 console.log(checkParentheses("(()())")); // true
 console.log(checkParentheses(")(")); // false
+
+// pattern name  = "Check Parentheses";
+// pattern description = "Check if a string has balanced parentheses.";
+// pattern difficulty = "Easy";
+// pattern tags = ["String", "Stack"];
+// pattern code = "javascript";
+// pattern codeSnippet = checkParentheses.toString();
+// pattern example = {
+//     input: "str = \"()\"",
+//     output: "true"
+// };
+// pattern example2 = {
+//     input: "str = \"(())\"",
+//     output: "true"
+// };
+// pattern example3 = {
+//     input: "str = \"(()\"",
+//     output: "false"
+// };
